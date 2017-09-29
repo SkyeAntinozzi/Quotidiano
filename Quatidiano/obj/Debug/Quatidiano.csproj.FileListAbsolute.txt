@@ -1,0 +1,21 @@
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\bin\Debug\Quatidiano.exe.config
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\bin\Debug\Quatidiano.exe
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\bin\Debug\Quatidiano.pdb
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\obj\Debug\Quatidiano.csprojResolveAssemblyReference.cache
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\obj\Debug\Quatidiano.Form1.resources
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\obj\Debug\Quatidiano.Properties.Resources.resources
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\obj\Debug\Quatidiano.csproj.GenerateResource.Cache
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\obj\Debug\Quatidiano.exe
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\obj\Debug\Quatidiano.pdb
+c:\users\skye\documents\visual studio 2015\Projects\Quatidiano\Quatidiano\obj\Debug\Quatidiano.CompletedVocab.resources
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\bin\Debug\Quatidiano.exe.config
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\bin\Debug\Quatidiano.exe
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\bin\Debug\Quatidiano.pdb
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.csprojResolveAssemblyReference.cache
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.CompletedVocab.resources
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.Form1.resources
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.Properties.Resources.resources
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.csproj.GenerateResource.Cache
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.csproj.CoreCompileInputs.cache
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.exe
+C:\Users\Skye\Desktop\Portfolio\Quatidiano\Quatidiano\obj\Debug\Quatidiano.pdb
